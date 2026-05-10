@@ -246,7 +246,7 @@ git clone https://github.com/hardik07777/flexprice-storybook-assignment.git
 ## Navigate Into Project
 
 ```bash
-cd flexprice-storybook-assignment
+cd flexprice-storybook
 ```
 
 ## Install Dependencies
