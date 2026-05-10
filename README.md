@@ -208,7 +208,7 @@ Implemented render/interaction tests for:
 Run all tests:
 
 ```bash
-npm run test
+npx vitest run src/lib/helpers.test.ts src/components/atoms/Button/Button.test.tsx src/components/atoms/Checkbox/Checkbox.test.tsx
 ```
 
 Run specific tests:
